@@ -1,0 +1,260 @@
+{
+  "schema_version": 2,
+  "project": "CodesbyFebin/Solana",
+  "selection_policy": "Curated references only; clone opt-in; verify licenses, current upstream revisions and safety",
+  "groups": {
+    "solana-developers": [
+      {
+        "repo": "solana-developers/solana-game-examples",
+        "url": "https://github.com/solana-developers/solana-game-examples",
+        "clone_url": "https://github.com/solana-developers/solana-game-examples.git"
+      },
+      {
+        "repo": "solana-developers/web3-examples",
+        "url": "https://github.com/solana-developers/web3-examples",
+        "clone_url": "https://github.com/solana-developers/web3-examples.git"
+      },
+      {
+        "repo": "solana-developers/solana-depin-examples",
+        "url": "https://github.com/solana-developers/solana-depin-examples",
+        "clone_url": "https://github.com/solana-developers/solana-depin-examples.git"
+      },
+      {
+        "repo": "solana-developers/anchor-examples",
+        "url": "https://github.com/solana-developers/anchor-examples",
+        "clone_url": "https://github.com/solana-developers/anchor-examples.git"
+      },
+      {
+        "repo": "solana-developers/solana-mobile-templates",
+        "url": "https://github.com/solana-developers/solana-mobile-templates",
+        "clone_url": "https://github.com/solana-developers/solana-mobile-templates.git"
+      },
+      {
+        "repo": "solana-developers/tooling-examples",
+        "url": "https://github.com/solana-developers/tooling-examples",
+        "clone_url": "https://github.com/solana-developers/tooling-examples.git"
+      },
+      {
+        "repo": "solana-developers/template-react-vite-tailwind-basic",
+        "url": "https://github.com/solana-developers/template-react-vite-tailwind-basic",
+        "clone_url": "https://github.com/solana-developers/template-react-vite-tailwind-basic.git"
+      }
+    ],
+    "solana-program": [
+      {
+        "repo": "solana-program/token",
+        "url": "https://github.com/solana-program/token",
+        "clone_url": "https://github.com/solana-program/token.git"
+      },
+      {
+        "repo": "solana-program/token-2022",
+        "url": "https://github.com/solana-program/token-2022",
+        "clone_url": "https://github.com/solana-program/token-2022.git"
+      },
+      {
+        "repo": "solana-program/system",
+        "url": "https://github.com/solana-program/system",
+        "clone_url": "https://github.com/solana-program/system.git"
+      },
+      {
+        "repo": "solana-program/associated-token-account",
+        "url": "https://github.com/solana-program/associated-token-account",
+        "clone_url": "https://github.com/solana-program/associated-token-account.git"
+      },
+      {
+        "repo": "solana-program/address-lookup-table",
+        "url": "https://github.com/solana-program/address-lookup-table",
+        "clone_url": "https://github.com/solana-program/address-lookup-table.git"
+      },
+      {
+        "repo": "solana-program/create-solana-program",
+        "url": "https://github.com/solana-program/create-solana-program",
+        "clone_url": "https://github.com/solana-program/create-solana-program.git"
+      },
+      {
+        "repo": "solana-program/zk-elgamal-proof",
+        "url": "https://github.com/solana-program/zk-elgamal-proof",
+        "clone_url": "https://github.com/solana-program/zk-elgamal-proof.git"
+      }
+    ],
+    "anza-xyz": [
+      {
+        "repo": "anza-xyz/kit",
+        "url": "https://github.com/anza-xyz/kit",
+        "clone_url": "https://github.com/anza-xyz/kit.git"
+      },
+      {
+        "repo": "anza-xyz/wallet-adapter",
+        "url": "https://github.com/anza-xyz/wallet-adapter",
+        "clone_url": "https://github.com/anza-xyz/wallet-adapter.git"
+      },
+      {
+        "repo": "anza-xyz/wallet-standard",
+        "url": "https://github.com/anza-xyz/wallet-standard",
+        "clone_url": "https://github.com/anza-xyz/wallet-standard.git"
+      },
+      {
+        "repo": "anza-xyz/agave",
+        "url": "https://github.com/anza-xyz/agave",
+        "clone_url": "https://github.com/anza-xyz/agave.git"
+      },
+      {
+        "repo": "anza-xyz/solana-sdk",
+        "url": "https://github.com/anza-xyz/solana-sdk",
+        "clone_url": "https://github.com/anza-xyz/solana-sdk.git"
+      },
+      {
+        "repo": "anza-xyz/security-audits",
+        "url": "https://github.com/anza-xyz/security-audits",
+        "clone_url": "https://github.com/anza-xyz/security-audits.git"
+      },
+      {
+        "repo": "anza-xyz/kit-plugins",
+        "url": "https://github.com/anza-xyz/kit-plugins",
+        "clone_url": "https://github.com/anza-xyz/kit-plugins.git"
+      }
+    ],
+    "solana-labs": [
+      {
+        "repo": "solana-labs/solana-program-library",
+        "url": "https://github.com/solana-labs/solana-program-library",
+        "clone_url": "https://github.com/solana-labs/solana-program-library.git"
+      },
+      {
+        "repo": "solana-labs/example-helloworld",
+        "url": "https://github.com/solana-labs/example-helloworld",
+        "clone_url": "https://github.com/solana-labs/example-helloworld.git"
+      },
+      {
+        "repo": "solana-labs/governance-program-library",
+        "url": "https://github.com/solana-labs/governance-program-library",
+        "clone_url": "https://github.com/solana-labs/governance-program-library.git"
+      },
+      {
+        "repo": "solana-labs/governance-sdk",
+        "url": "https://github.com/solana-labs/governance-sdk",
+        "clone_url": "https://github.com/solana-labs/governance-sdk.git"
+      },
+      {
+        "repo": "solana-labs/rpc-websockets",
+        "url": "https://github.com/solana-labs/rpc-websockets",
+        "clone_url": "https://github.com/solana-labs/rpc-websockets.git"
+      }
+    ],
+    "sdk-and-client-libraries": [
+      {
+        "repo": "gillsdk/gill",
+        "url": "https://github.com/gillsdk/gill",
+        "clone_url": "https://github.com/gillsdk/gill.git"
+      },
+      {
+        "repo": "solana-foundation/solana-web3.js",
+        "url": "https://github.com/solana-foundation/solana-web3.js",
+        "clone_url": "https://github.com/solana-foundation/solana-web3.js.git"
+      },
+      {
+        "repo": "solana-program/libraries",
+        "url": "https://github.com/solana-program/libraries",
+        "clone_url": "https://github.com/solana-program/libraries.git"
+      },
+      {
+        "repo": "metaplex-foundation/umi",
+        "url": "https://github.com/metaplex-foundation/umi",
+        "clone_url": "https://github.com/metaplex-foundation/umi.git"
+      },
+      {
+        "repo": "metaplex-foundation/mpl-token-metadata",
+        "url": "https://github.com/metaplex-foundation/mpl-token-metadata",
+        "clone_url": "https://github.com/metaplex-foundation/mpl-token-metadata.git"
+      },
+      {
+        "repo": "helius-labs/helius-rust-sdk",
+        "url": "https://github.com/helius-labs/helius-rust-sdk",
+        "clone_url": "https://github.com/helius-labs/helius-rust-sdk.git"
+      }
+    ],
+    "testing-and-security": [
+      {
+        "repo": "LiteSVM/litesvm",
+        "url": "https://github.com/LiteSVM/litesvm",
+        "clone_url": "https://github.com/LiteSVM/litesvm.git"
+      },
+      {
+        "repo": "blueshift-gg/mollusk",
+        "url": "https://github.com/blueshift-gg/mollusk",
+        "clone_url": "https://github.com/blueshift-gg/mollusk.git"
+      },
+      {
+        "repo": "blueshift-gg/svm-unit-test",
+        "url": "https://github.com/blueshift-gg/svm-unit-test",
+        "clone_url": "https://github.com/blueshift-gg/svm-unit-test.git"
+      },
+      {
+        "repo": "blueshift-gg/anchor-idl-guard",
+        "url": "https://github.com/blueshift-gg/anchor-idl-guard",
+        "clone_url": "https://github.com/blueshift-gg/anchor-idl-guard.git"
+      },
+      {
+        "repo": "blueshift-gg/solana-ml-dsa",
+        "url": "https://github.com/blueshift-gg/solana-ml-dsa",
+        "clone_url": "https://github.com/blueshift-gg/solana-ml-dsa.git"
+      }
+    ],
+    "mobile-and-gameplay": [
+      {
+        "repo": "solana-mobile/mobile-wallet-adapter",
+        "url": "https://github.com/solana-mobile/mobile-wallet-adapter",
+        "clone_url": "https://github.com/solana-mobile/mobile-wallet-adapter.git"
+      },
+      {
+        "repo": "solana-developers/anchor-rpg",
+        "url": "https://github.com/solana-developers/anchor-rpg",
+        "clone_url": "https://github.com/solana-developers/anchor-rpg.git"
+      }
+    ],
+    "programs-and-reference": [
+      {
+        "repo": "solana-program/stake-pool",
+        "url": "https://github.com/solana-program/stake-pool",
+        "clone_url": "https://github.com/solana-program/stake-pool.git"
+      },
+      {
+        "repo": "solana-program/token-metadata",
+        "url": "https://github.com/solana-program/token-metadata",
+        "clone_url": "https://github.com/solana-program/token-metadata.git"
+      },
+      {
+        "repo": "solana-program/program-metadata",
+        "url": "https://github.com/solana-program/program-metadata",
+        "clone_url": "https://github.com/solana-program/program-metadata.git"
+      },
+      {
+        "repo": "solana-program/stake",
+        "url": "https://github.com/solana-program/stake",
+        "clone_url": "https://github.com/solana-program/stake.git"
+      },
+      {
+        "repo": "blueshift-gg/pinocchio",
+        "url": "https://github.com/blueshift-gg/pinocchio",
+        "clone_url": "https://github.com/blueshift-gg/pinocchio.git"
+      },
+      {
+        "repo": "quicknode/solana-program-examples",
+        "url": "https://github.com/quicknode/solana-program-examples",
+        "clone_url": "https://github.com/quicknode/solana-program-examples.git"
+      }
+    ],
+    "rpc-infrastructure": [
+      {
+        "repo": "anza-xyz/solana-rpc-client-extensions",
+        "url": "https://github.com/anza-xyz/solana-rpc-client-extensions",
+        "clone_url": "https://github.com/anza-xyz/solana-rpc-client-extensions.git"
+      },
+      {
+        "repo": "jito-foundation/jito-solana",
+        "url": "https://github.com/jito-foundation/jito-solana",
+        "clone_url": "https://github.com/jito-foundation/jito-solana.git"
+      }
+    ]
+  }
+}
